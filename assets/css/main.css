@@ -2149,7 +2149,7 @@ button,
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
-	  border-radius: 50%;
+	  border-radius: 10%;
       width: 300px; }
   @media screen and (orientation: portrait) {
     #banner {
@@ -2273,4 +2273,5 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
 
